@@ -171,6 +171,10 @@ https://pyxel-sangokushi.netlify.app/
 - 武将間には好悪の感情が存在します。これもゲーム内で直接知ることはできませんが、基本的には同じ特性をもっている武将どうしの相性は良いです。
 - また、たとえば特性「小心者」を持つ武将は特性「カリスマ」をもつ武将を嫌うが逆方向の悪感情はない、といった一方向的な好悪関係も存在します。
 
+### 武将一覧
+
+- [こちら](https://github.com/shiromofufactory/pyxel-sangokushi-guide/blob/master/actors.md)でご覧いただけます
+
 ## イベント
 
 ### 武将の縁故加入と在野の士官
@@ -263,3 +267,5 @@ https://pyxel-sangokushi.netlify.app/
 2024/4/6 PC 版 URL を追記
 
 2024/4/7 PC 版でマウスカーソル表示されるように修正
+
+2024/4/23 武将一覧追加
